@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy beer",
+      "completed": false
+    },
+    {
+      "title": "Buy bread",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "buy cookie",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "clean room",
+      "completed": true,
+      "id": 4
+    }
+  ]
+}
